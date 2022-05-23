@@ -40,7 +40,7 @@ for(let i = 0; i < buttons.length; i++){
         setTimeout(function(){
             let container = document.querySelector("#container");
             container.classList.remove("hide");
-        }, 1000);
+        }, 200);
     });
 }
 
