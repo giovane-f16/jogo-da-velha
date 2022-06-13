@@ -4,8 +4,6 @@ Desenvolvido em JavaScript, HTML e CSS.
 
 Você pode jogar contra um amigo ou contra a própria máquina!
 
-O primeiro que realiza a jogada é o X
-
 [Clique aqui](https://giovane-f16.github.io/jogo-da-velha/) para jogar.
 
 <hr>
